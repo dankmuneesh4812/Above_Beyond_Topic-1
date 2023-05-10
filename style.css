@@ -1,0 +1,48 @@
+/* Set the background color for the whole page */
+body {
+    background-color: beige;
+    text-align: justify;
+  }
+  
+  /* Style the navbar */
+  .navbar {
+    background-color: #333;
+    font-size: 30px;
+  }
+  
+  /* Style the links inside the navbar */
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Style the active link */
+  .active {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  /* Center the page title */
+  .page-title {
+    text-align: center;
+    font-size: 54px;
+  }
+  
+  /* Style the subheading */
+  .subheading {
+    color: black;
+    font-size: 30px;
+  }
+  
+  /* Set the font and size for paragraphs, unordered and ordered lists */
+  p, ul, ol {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    text-align: justify;
+  }
+  
+  h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+  }
